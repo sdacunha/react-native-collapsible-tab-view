@@ -1,3 +1,19 @@
+# [4.6.0](https://github.com/sdacunha/react-native-collapsible-tab-view/compare/v4.5.2...v4.6.0) (2022-07-22)
+
+
+### Bug Fixes
+
+* **example:** remove invalid line ([a24469b](https://github.com/sdacunha/react-native-collapsible-tab-view/commit/a24469bde3abc7335eaa362e40de458d0a7fe8c4))
+* **header:** ensure all props are passed to top container ([1df25a7](https://github.com/sdacunha/react-native-collapsible-tab-view/commit/1df25a7eed97074baad0db4d4232eb753747c89a))
+
+
+### Features
+
+* **header:** add pan gesture handler to allow touchable and scrollable elements on header ([fe16dbc](https://github.com/sdacunha/react-native-collapsible-tab-view/commit/fe16dbc46c4e272a243c12b50007c9cef0b7bb13))
+* **header:** ensure header properly syncs for snaps and reveal header on scroll ([0120e98](https://github.com/sdacunha/react-native-collapsible-tab-view/commit/0120e987ab58ee94e8786fc5a339d285f5789034))
+* **header:** extra header and tabbar container from container file ([9d37f13](https://github.com/sdacunha/react-native-collapsible-tab-view/commit/9d37f1384e44086cedba6898b3e762a4996973a7))
+* **top-container:** extract top container to new file ([083dabd](https://github.com/sdacunha/react-native-collapsible-tab-view/commit/083dabd8fe66a7cacc8829c72672a0e6acd0d598))
+
 ## [4.5.2](https://github.com/PedroBern/react-native-collapsible-tab-view/compare/v4.5.1...v4.5.2) (2022-01-15)
 
 
