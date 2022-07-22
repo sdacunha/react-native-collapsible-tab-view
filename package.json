@@ -21,7 +21,7 @@
     "docs": "ts-node ./documentation/buildDocs.ts"
   },
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "react-native-component",
@@ -36,7 +36,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PedroBern/react-native-collapsible-tab-view.git"
+    "url": "git+https://github.com/sdacunha/react-native-collapsible-tab-view.git"
   },
   "author": "Pedro Bern <pedrobermoreira@gmail.com> (https://github.com/pedrobern/)",
   "license": "MIT",
