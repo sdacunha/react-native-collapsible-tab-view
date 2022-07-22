@@ -1,3 +1,5 @@
+## [4.6.1](https://github.com/sdacunha/react-native-collapsible-tab-view/compare/v4.6.0...v4.6.1) (2022-07-22)
+
 # [4.6.0](https://github.com/sdacunha/react-native-collapsible-tab-view/compare/v4.5.2...v4.6.0) (2022-07-22)
 
 
